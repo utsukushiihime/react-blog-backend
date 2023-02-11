@@ -6,7 +6,7 @@
     "@babel/core": "^7.14.6",
     "@babel/node": "^7.14.7",
     "@babel/preset-env": "^7.14.7",
-    "nodemon": "^2.0.9"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
